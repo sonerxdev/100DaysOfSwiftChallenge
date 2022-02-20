@@ -9,5 +9,15 @@ let total = firstScore + secondScore
 let difference = firstScore - secondScore
 let product = firstScore * secondScore
 
-// Operator overloading
-let meaningOfLife = 42
+
+// Conditions
+let sonerAge = 24
+let dogukanAge = 3
+var result = sonerAge + dogukanAge
+if result == 27 {
+    print("sum of the ages \(result)")
+}
+else if result > 27 {
+    print("bla bla")
+}
+

@@ -11,4 +11,3 @@ let product = firstScore * secondScore
 
 // Operator overloading
 let meaningOfLife = 42
-let doubleMeaning = 

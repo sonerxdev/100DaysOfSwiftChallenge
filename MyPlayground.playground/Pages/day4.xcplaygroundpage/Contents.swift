@@ -9,8 +9,6 @@ for number in count {
 let albums = ["Red", "1997", "Reputation"]
 var album1 = [String]()
 
-
-
 for album in albums {
     if album == "Red" {
         album1.insert(album, at: 0)
